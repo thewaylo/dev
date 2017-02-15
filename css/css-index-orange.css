@@ -40,7 +40,7 @@ p {
 	margin:0;
 }
 a {
-	color: #ff9800 ;
+	color: #ef6c00  ;
 	outline: 0;
 	font-weight: bold;
 	-webkit-transition: all .8s ease;
@@ -53,7 +53,7 @@ a:hover {
 	transition: all .8s ease;
 }
 .highlight {
-	color: #ff9800 ;
+	color: #ef6c00  ;
 }
 #preloader { 
 	position: fixed; 
@@ -102,13 +102,13 @@ a:hover {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #ff9800 ;
+    color: #ef6c00  ;
 }
 .navbar-default .navbar-nav > .active > a, 
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus {
 	background: transparent;
-    color: #ff9800 ;
+    color: #ef6c00  ;
 }
 .btn-default {
 	font-size: 17px;
@@ -117,16 +117,16 @@ a:hover {
 	line-height: 20px;
 	padding: 15px 35px;
 	height: 50px;
-	border: 2px solid #ff9800 ;
+	border: 2px solid #ef6c00  ;
 	background: transparent;
 	transition: all 0.4s;
-	color: #ff9800 ;
+	color: #ef6c00  ;
 	border-radius: 100px;
 	display: inline-block;
 }
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
-	border: 2px solid #ff9800 ;
-	background: #ff9800 ;
+	border: 2px solid #ef6c00  ;
+	background: #ef6c00  ;
 	color: white;
 }
 .btn-primary {
@@ -136,16 +136,16 @@ a:hover {
 	line-height: 20px;
 	padding: 15px 35px;
 	height: 50px;
-	border: 2px solid #ff9800 ;
-	background: #ff9800 ;
+	border: 2px solid #ef6c00  ;
+	background: #ef6c00  ;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 100px;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
-	border: 2px solid #ff9800 ;
+	border: 2px solid #ef6c00  ;
 	background: transparent;
-	color: #ff9800 ;
+	color: #ef6c00  ;
 }
 .carousel-indicators .active{
 	background-color: black;
@@ -162,7 +162,7 @@ a:hover {
 }
 
 .color-box{
-	background: #ff9800 ;
+	background: #ef6c00  ;
 	color: white;
 }
 .carousel-control .right{
@@ -175,7 +175,7 @@ a:hover {
 	padding: 20px 45px;
 	height: 65px;
 	border: none;
-	background: #ff9800 ;
+	background: #ef6c00  ;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 4px;
@@ -254,7 +254,7 @@ a:hover {
 	border-radius: 0;
 	height: 55px;
 	width: 100%;
-	background-color: #ff9800 ;
+	background-color: #ef6c00  ;
 	color: white;
 	font-size: 17px !important;
 	padding: 0 33px;
@@ -328,7 +328,7 @@ a:hover {
 	transition: all .8s ease;
 }
 .feat-list:hover i {
-	color: #ff9800 ;
+	color: #ef6c00  ;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
@@ -385,7 +385,7 @@ a:hover {
 }
 .subscribe-form button {
 	border-radius: 0 4px 4px 0;
-	background-color: #ff9800 ;
+	background-color: #ef6c00  ;
 	color: #ffffff;
 	font-size: 1em;
 	line-height: 52px;
@@ -425,7 +425,7 @@ a:hover {
     width: 100px;
     height: 3px;
     margin: 0 auto;
-    background: #ff9800 ;
+    background: #ef6c00  ;
 }
 .price-box {
 	border: solid 1px #d1d1d1;
@@ -453,7 +453,7 @@ a:hover {
 	bottom: 48px;
 }
 .price-group .price {
-	color: #ff9800 ;
+	color: #ef6c00  ;
 	font-size: 90px;
 	font-weight: 500;
 }
@@ -472,7 +472,7 @@ a:hover {
 	font-size: 17px;
 	padding: 7px 35px;
 	height: 40px;
-	background: #ff9800 ;
+	background: #ef6c00  ;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 4px;	
@@ -532,10 +532,10 @@ a:hover {
 }
 .testi-item .client-info .company {
 	font-style: italic;
-	color: #ff9800 ;
+	color: #ef6c00  ;
 }
 .owl-theme .owl-controls .owl-page span{
-	background: #ff9800 ;
+	background: #ef6c00  ;
 }
 .video-header {
 	margin: 40px 0 30px;
@@ -589,7 +589,7 @@ a:hover {
 	margin-left: 15px;
 	position: absolute; 
 	left: 0;
-	color: #ff9800 ; 
+	color: #ef6c00  ; 
 	font-size: 25px;
 	line-height: 30px;
 }
@@ -621,7 +621,7 @@ a:hover {
 #contact-form .btn {
 	height: 55px;
 	width: 100%;
-	background-color: #ff9800 ;
+	background-color: #ef6c00  ;
 	color: #ffffff;
 	font-size: 17px !important;
 	line-height: 18px;
@@ -655,16 +655,16 @@ a:hover {
 	width: 40px;
 	height: 40px;
 	line-height: 40px;
-	color: #ff9800 ;
+	color: #ef6c00  ;
 	border-radius: 50%;
 	background: #fff;
-	border: solid 1px #ff9800 ;
+	border: solid 1px #ef6c00  ;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
 .social li a:hover {
 	color: #fff;
-	background: #ff9800 ;
+	background: #ef6c00  ;
 }
 #shortcode-basic {
 	padding: 70px 0 10px;
@@ -691,7 +691,7 @@ a:hover {
 	padding: 50px 0 10px;
 }
 .social-icons i {
-	color: #ff9800 ;
+	color: #ef6c00  ;
 	font-size: 30px;
 	line-height: 40px
 }
@@ -718,7 +718,7 @@ a:hover {
 	margin-right: 20px;
 }
 .table > thead > tr > th { 
-	background: #ff9800 ; 
+	background: #ef6c00  ; 
 	color: #fff; 
 	border-bottom: 0; 
 	text-transform: uppercase; 
@@ -752,7 +752,7 @@ a:hover {
 	display: none;
 }
 .scrollToTop:hover{
-	color: #ff9800 ;
+	color: #ef6c00  ;
 }
 .control-group .controls {
 	overflow-x: hidden;
